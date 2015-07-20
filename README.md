@@ -1,6 +1,6 @@
 # DeviseHippaAuth
 
-TODO: Write a gem description
+This gem extends Devise to support Hippa Authentication Policies .
 
 ## Installation
 
